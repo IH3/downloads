@@ -8,8 +8,8 @@ Firmware is extracted from miui official ROMs, both Global and China. Auto updat
 ### **Downloads**
 
 You can get updates from Basketbuild Or Androidfilehost:
-- [Basketbuild]()
-- [Androidfilehost]()
+- [Basketbuild](https://basketbuild.com/devs/yshalsager/mifirmware)
+- [Androidfilehost](https://www.androidfilehost.com/?w=files&flid=241903) (Mirror)
 
 
 ### Suppotred Devices:
