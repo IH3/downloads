@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Xiaomi firmware updater downloads
 description: One Place to get all Mi Firmware Updates!
+show_downloads: "false"
