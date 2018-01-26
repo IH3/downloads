@@ -3,13 +3,13 @@
 
 A Script that automatically generate Xiaomi firmware flashable zip files every miui new update!
 You can find it [here](https://github.com/xiaomi-firmware-updater/mi-firmware-updater).
-Firmware is extracted from miui official ROMs, both Global and China. Auto updated every Friday.
+Firmware is extracted from miui official ROMs, both Developer and Stable, Global and China. Auto updated every Friday.
 
 ### **Downloads**
 
 You can get updates from Basketbuild Or Androidfilehost:
-- [Basketbuild](https://basketbuild.com/devs/yshalsager/mifirmware)
-- [Androidfilehost](https://www.androidfilehost.com/?w=files&flid=241903) (Mirror)
+- [Basketbuild](https://basketbuild.com/devs/yshalsager/Xiaomi-Firmware)
+- [Androidfilehost](https://www.androidfilehost.com/?w=files&flid=241784) (Mirror)
 
 
 ### Suppotred Devices:
@@ -42,6 +42,7 @@ You can get updates from Basketbuild Or Androidfilehost:
 - MIMAX652: Xiaomi Mi Max Prime (helium)
 - MIMIX: Xiaomi Mi MIX (lithium)
 - MIMIX2: Xiaomi Mi MIX 2 (chiron)
+- MINote: Xiaomi Mi Note (virgo)
 - MINote2: Xiaomi Mi Note 2 (scorpio)
 - MINote3: Xiaomi Mi Note 3 (jason)
 - MIPAD3: Xiaomi Mi Pad 3 (cappu)
