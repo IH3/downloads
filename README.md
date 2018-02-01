@@ -12,7 +12,7 @@ You can get updates from Basketbuild Or Androidfilehost:
 - [Androidfilehost](https://www.androidfilehost.com/?w=files&flid=241784) (Mirror)
 
 
-### Suppotred Devices:
+### Supported Devices:
 
 - HM3: Xiaomi Redmi 3 (ido)
 - HM3S: Xiaomi Redmi 3S/Prime/3X (land)
